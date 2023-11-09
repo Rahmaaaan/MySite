@@ -1,9 +1,8 @@
 # MySite
- 
- 
+
 ## Demo
 
-Experience the MySite in action by visiting our live demo [here](#https://rahmaaaan.github.io/MySite/.
+Experience the MySite in action by visiting our live demo [here](#https://rahmaaaan.github.io/MySite/.)
 
 ## Installation
 
@@ -11,7 +10,6 @@ To use the MySite, follow these simple steps:
 
 1. Clone this repository to your local machine.
 2. Open the `index.html` file in your web browser.
-
 
 ## Contributing
 
