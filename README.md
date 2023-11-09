@@ -2,7 +2,7 @@
 
 ## Demo
 
-Experience the MySite in action by visiting our live demo [here](#https://rahmaaaan.github.io/MySite/.)
+Experience the MySite in action by visiting our live demo [here](#https://rahmaaaan.github.io/MySite/).
 
 ## Installation
 
